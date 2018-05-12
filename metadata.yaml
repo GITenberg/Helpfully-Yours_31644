@@ -1,0 +1,44 @@
+_repo: Helpfully-Yours_31644
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Emshwiller, Ed
+    aliases:
+    - Alexander, Ed
+    - Emsh
+    - Willer
+    - Emshwiller, Edmund A.
+    - Emsh, Ed
+    birthdate: 1925
+    deathdate: 1990
+    gutenberg_agent_id: '25412'
+    url: http://www.gutenberg.org/2009/agents/25412
+    wikipedia: http://en.wikipedia.org/wiki/Ed_Emshwiller
+covers:
+- cover_type: archival
+  image_path: 31644-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Smith, Evelyn E.
+    birthdate: 1922
+    deathdate: 2000
+    gutenberg_agent_id: '25680'
+    url: http://www.gutenberg.org/2009/agents/25680
+description: ''
+gutenberg_bookshelf:
+- Science Fiction by Women
+- Science Fiction
+gutenberg_issued: '2010-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31644'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Science fiction'
+title: Helpfully Yours
+url: http://www.gutenberg.org/ebooks/31644
